@@ -1,0 +1,48 @@
+GET https://datausa.io/api/data?drilldowns=State&measures=Population&year=latest
+
+<> 2022-09-12T092641.200.json
+
+###
+
+GET https://datausa.io/api/data?drilldowns=State&measures=Population
+
+<> 2022-09-12T092527.200.json
+
+###
+
+GET https://datausa.io/api/data?drilldowns=Nation&measures=Population
+
+<> 2022-09-12T092250.200.json
+
+###
+
+GET https://datausa.io/api/data?drilldowns=Nation&measures=Population
+
+<> 2022-09-12T092242.200.json
+
+###
+
+GET https://datausa.io/api/data?drilldowns=Nation&measures=Population
+
+<> 2022-09-12T092240.200.json
+
+###
+
+GET https://datausa.io/api/data?drilldowns=Nation&measures=Population
+
+<> 2022-09-12T092238.200.json
+
+###
+
+GET https://datausa.io/api/data?drilldowns=Nation&measures=Population
+
+<> 2022-09-12T092217.200.json
+
+###
+
+GET https://datausa.io/api/data?drilldowns=Nation&measures=Population
+
+<> 2022-09-12T092124.200.json
+
+###
+
