@@ -23,6 +23,9 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/app.js" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="ouo6mjpg" />
   </component>
@@ -40,9 +43,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="tasks.servers" />
+    <property name="tasks.open.task.update.state.enabled" value="true" />
   </component>
-  <component name="RunManager" selected="npm.dev">
+  <component name="RunManager" selected="HTTP Request.api | #1">
     <configuration name="api | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/api.http" requestIdentifier="#1" runType="Run single request">
       <method v="2" />
     </configuration>
@@ -58,8 +65,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.dev" />
         <item itemvalue="HTTP Request.api | #1" />
+        <item itemvalue="npm.dev" />
       </list>
     </recent_temporary>
   </component>
@@ -73,7 +80,7 @@
       <updated>1662990318891</updated>
       <workItem from="1662988302462" duration="1985000" />
     </task>
-    <task active="true" id="population-viewer-1" summary="Create my `index.html` ">
+    <task id="population-viewer-1" summary="Create my `index.html` ">
       <created>1662990045000</created>
       <option name="issue" value="true" />
       <url>https://github.com/deletosh/population-viewer/issues/1</url>
@@ -81,11 +88,25 @@
       <option name="presentableId" value="population-viewer-1" />
       <option name="project" value="population-viewer" />
       <option name="type" value="BUG" />
-      <updated>1662990318891</updated>
-      <workItem from="1662990319191" duration="329000" />
+      <updated>1662990777874</updated>
+      <workItem from="1662990319191" duration="455000" />
+    </task>
+    <task active="true" id="population-viewer-2" summary="Add tailwind and DaisyUI">
+      <created>1662990061000</created>
+      <option name="issue" value="true" />
+      <url>https://github.com/deletosh/population-viewer/issues/2</url>
+      <option name="number" value="2" />
+      <option name="presentableId" value="population-viewer-2" />
+      <option name="project" value="population-viewer" />
+      <option name="type" value="BUG" />
+      <updated>1662990777874</updated>
+      <workItem from="1662990778421" duration="5008000" />
     </task>
     <servers>
       <GitHub url="https://github.com">
+        <option name="preferredOpenTaskState">
+          <CustomTaskState id="OPEN" predefined="true" name="Open" />
+        </option>
         <option name="repoAuthor" value="deletosh" />
         <option name="repoName" value="population-viewer" />
       </GitHub>

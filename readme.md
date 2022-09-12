@@ -17,12 +17,12 @@
 
 ### 3. ( JS part of the eq)
 ### 1. Users can enter a country's name and get back the key statistics about the country
- - [ ] Create my `index.html` 
- - [ ] Add tailwind and DaisyUI
- - [ ] Build by search box 
- - [ ] Test API in `app.js` using `fetch()`/`then()`
- - [ ] refactor my API fetch using `async`/`await` functions to keep my code cleaner
- - [ ] Test that I can search for states with my API
+ - [x] Create my `index.html` 
+ - [x] Add tailwind and DaisyUI
+ - [x] Build by search box 
+ - [x] Test API in `app.js` using `fetch()`/`then()`
+ - [x] refactor my API fetch using `async`/`await` functions to keep my code cleaner
+ - [x] Test that I can search for states with my API
  - [ ] Deploy to vercel
 
 ### 2. If the country has some statistics, they should see some kind of graph and charts.
