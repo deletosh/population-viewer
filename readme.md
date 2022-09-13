@@ -32,9 +32,9 @@
  - [x] Deploy to Vercel
 
 ### 2. If the country has some statistics, they should see some kind of graph and charts.
-- [ ] Discover a library for charts/graphs for my code
-- [ ] Use library XXXXXX to show the chart for the searched state's statistics
-- [ ] Test that my graph and charts works as expected
+- [x] Discover a library for charts/graphs for my code
+- [x] Use library (Chart.js) to show the chart for the searched state's statistics
+- [x] Test that my graph and charts works as expected
 - [ ] Deploy to Vercel
 
 ### 3. They [Users] can save their favorite countries
