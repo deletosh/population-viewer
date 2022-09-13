@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03c1e5fb-d12f-4f5d-a97e-ef4a883998e1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,9 +48,10 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="tasks.servers" />
+    <property name="tasks.close.task.update.state.enabled" value="true" />
     <property name="tasks.open.task.update.state.enabled" value="true" />
   </component>
-  <component name="RunManager" selected="HTTP Request.api | #1">
+  <component name="RunManager" selected="npm.dev">
     <configuration name="api | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/api.http" requestIdentifier="#1" runType="Run single request">
       <method v="2" />
     </configuration>
@@ -65,6 +67,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.dev" />
+        <item itemvalue="HTTP Request.api | #1" />
+        <item itemvalue="npm.dev" />
         <item itemvalue="HTTP Request.api | #1" />
         <item itemvalue="npm.dev" />
       </list>
@@ -80,7 +85,8 @@
       <updated>1662990318891</updated>
       <workItem from="1662988302462" duration="1985000" />
     </task>
-    <task id="population-viewer-1" summary="Create my `index.html` ">
+    <task active="true" id="population-viewer-1" summary="Create my `index.html` ">
+      <changelist id="03c1e5fb-d12f-4f5d-a97e-ef4a883998e1" name="Changes" comment="" />
       <created>1662990045000</created>
       <option name="issue" value="true" />
       <url>https://github.com/deletosh/population-viewer/issues/1</url>
@@ -88,10 +94,14 @@
       <option name="presentableId" value="population-viewer-1" />
       <option name="project" value="population-viewer" />
       <option name="type" value="BUG" />
-      <updated>1662990777874</updated>
+      <updated>1663072280998</updated>
       <workItem from="1662990319191" duration="455000" />
+      <workItem from="1663003101025" duration="271000" />
+      <workItem from="1663072189474" duration="85000" />
+      <workItem from="1663072281683" duration="1203000" />
     </task>
-    <task active="true" id="population-viewer-2" summary="Add tailwind and DaisyUI">
+    <task id="population-viewer-2" summary="Add tailwind and DaisyUI">
+      <changelist id="03c1e5fb-d12f-4f5d-a97e-ef4a883998e1" name="Changes" comment="" />
       <created>1662990061000</created>
       <option name="issue" value="true" />
       <url>https://github.com/deletosh/population-viewer/issues/2</url>
@@ -99,8 +109,9 @@
       <option name="presentableId" value="population-viewer-2" />
       <option name="project" value="population-viewer" />
       <option name="type" value="BUG" />
-      <updated>1662990777874</updated>
-      <workItem from="1662990778421" duration="5489000" />
+      <updated>1663072280998</updated>
+      <workItem from="1662990778421" duration="6120000" />
+      <workItem from="1663072274672" duration="7000" />
     </task>
     <servers>
       <GitHub url="https://github.com">
